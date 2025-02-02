@@ -17,9 +17,10 @@
         android:theme="@style/Theme.ShoppingListApp"
         tools:targetApi="31">
 
+        <!--Add API Key under name.value-->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBHnTpZo7lzWvvzPpLbCBJsgQhCzih6QaY"
+            android:value=""
             />
         <activity
             android:name=".MainActivity"
